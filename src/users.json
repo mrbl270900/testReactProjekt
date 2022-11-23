@@ -1,0 +1,282 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "Monsieur",
+            "first": "Alex",
+            "last": "Da Silva"
+        },
+        "location": {
+            "street": {
+                "number": 6970,
+                "name": "Place du 8 Novembre 1942"
+            },
+            "city": "Vich",
+            "state": "Nidwalden",
+            "country": "Switzerland",
+            "postcode": 2749,
+            "coordinates": {
+                "latitude": "-56.0883",
+                "longitude": "-64.2180"
+            },
+            "timezone": {
+                "offset": "+3:00",
+                "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+            }
+        },
+        "email": "alex.dasilva@example.com",
+        "login": {
+            "uuid": "028b4e86-2276-4e0f-bbda-af133cd5d615",
+            "username": "smallostrich687",
+            "password": "remember",
+            "salt": "ljCx5c8E",
+            "md5": "eeaa9e8b6ebcf60913da6970d5bbae92",
+            "sha1": "b225544a5972ce64d3f9a231ad5ea0cc5ca23081",
+            "sha256": "29be1e6e91a356e0260da163e6bf85271a62c095dadaf9caccd3d95a47a06f76"
+        },
+        "dob": {
+            "date": "1999-05-02T03:57:48.422Z",
+            "age": 23
+        },
+        "registered": {
+            "date": "2004-08-23T08:52:09.515Z",
+            "age": 18
+        },
+        "phone": "079 838 31 34",
+        "cell": "077 892 14 53",
+        "id": {
+            "name": "AVS",
+            "value": "756.1041.8937.04"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/19.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+        },
+        "nat": "CH"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Ms",
+            "first": "Afşar",
+            "last": "Yıldırım"
+        },
+        "location": {
+            "street": {
+                "number": 7637,
+                "name": "Istiklal Cd"
+            },
+            "city": "Siirt",
+            "state": "Tunceli",
+            "country": "Turkey",
+            "postcode": 73371,
+            "coordinates": {
+                "latitude": "-7.6810",
+                "longitude": "-29.0139"
+            },
+            "timezone": {
+                "offset": "-10:00",
+                "description": "Hawaii"
+            }
+        },
+        "email": "afsar.yildirim@example.com",
+        "login": {
+            "uuid": "cf326952-072d-4e5c-87e9-1ec1c7bcb0f6",
+            "username": "silverdog177",
+            "password": "camber",
+            "salt": "a9A7HJ4e",
+            "md5": "eab62e11f5bc7a86b62c98dd8f2e8d5c",
+            "sha1": "9d846a33bba3cdc51ee2631f09ce2c1ab6ea614f",
+            "sha256": "c27dec380d676c15e728469a624d297a3b58818ca1ea73a3467b8359c426c9bb"
+        },
+        "dob": {
+            "date": "1959-02-16T23:40:11.323Z",
+            "age": 63
+        },
+        "registered": {
+            "date": "2014-11-29T00:53:44.160Z",
+            "age": 7
+        },
+        "phone": "(126)-615-7554",
+        "cell": "(032)-150-8912",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/13.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+        },
+        "nat": "TR"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Cecília",
+            "last": "Lima"
+        },
+        "location": {
+            "street": {
+                "number": 6382,
+                "name": "Rua Rui Barbosa "
+            },
+            "city": "Salto",
+            "state": "Acre",
+            "country": "Brazil",
+            "postcode": 37341,
+            "coordinates": {
+                "latitude": "80.9361",
+                "longitude": "16.6229"
+            },
+            "timezone": {
+                "offset": "-1:00",
+                "description": "Azores, Cape Verde Islands"
+            }
+        },
+        "email": "cecilia.lima@example.com",
+        "login": {
+            "uuid": "9e13c214-a224-49a2-8c88-7063180ce131",
+            "username": "lazytiger182",
+            "password": "ou8123",
+            "salt": "4Q8YAJZp",
+            "md5": "e4911ebc907c2954929cd49b6999ee5d",
+            "sha1": "c65f33cfbe19b0a9006e3c15c354e8b35d369a12",
+            "sha256": "56c7c6797863453b3cf7a0fad2f3e14bf072896f0522474d5f3c542d00d1d126"
+        },
+        "dob": {
+            "date": "1982-06-24T11:32:36.962Z",
+            "age": 40
+        },
+        "registered": {
+            "date": "2006-06-10T15:42:48.384Z",
+            "age": 16
+        },
+        "phone": "(55) 3460-0087",
+        "cell": "(33) 8281-8539",
+        "id": {
+            "name": "CPF",
+            "value": "802.686.257-17"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/71.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+        },
+        "nat": "BR"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Paige",
+            "last": "Walker"
+        },
+        "location": {
+            "street": {
+                "number": 8122,
+                "name": "Highfield Road"
+            },
+            "city": "Kilcock",
+            "state": "Dublin City",
+            "country": "Ireland",
+            "postcode": 40044,
+            "coordinates": {
+                "latitude": "83.3170",
+                "longitude": "-128.6850"
+            },
+            "timezone": {
+                "offset": "+11:00",
+                "description": "Magadan, Solomon Islands, New Caledonia"
+            }
+        },
+        "email": "paige.walker@example.com",
+        "login": {
+            "uuid": "856a9c04-ebfd-469d-8a8e-1a3b8857a011",
+            "username": "orangeladybug319",
+            "password": "arsenal1",
+            "salt": "GRHgEWXl",
+            "md5": "01ce320b58ec903c0d1494bf47f3d626",
+            "sha1": "1e1b43a070bbbbc3c34cba50b3a2a46cf43aceb1",
+            "sha256": "d45c82fd7f3af20f44f09ef983f303e5199c76d031c575927965860ef9a9e32c"
+        },
+        "dob": {
+            "date": "1958-12-05T11:22:25.725Z",
+            "age": 63
+        },
+        "registered": {
+            "date": "2013-03-08T09:04:42.062Z",
+            "age": 9
+        },
+        "phone": "041-264-0035",
+        "cell": "081-306-6899",
+        "id": {
+            "name": "PPS",
+            "value": "8307865T"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/52.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+        },
+        "nat": "IE"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Eric",
+            "last": "Obrien"
+        },
+        "location": {
+            "street": {
+                "number": 9543,
+                "name": "Cork Street"
+            },
+            "city": "Duleek",
+            "state": "Kildare",
+            "country": "Ireland",
+            "postcode": 13383,
+            "coordinates": {
+                "latitude": "71.2053",
+                "longitude": "86.3768"
+            },
+            "timezone": {
+                "offset": "+8:00",
+                "description": "Beijing, Perth, Singapore, Hong Kong"
+            }
+        },
+        "email": "eric.obrien@example.com",
+        "login": {
+            "uuid": "55d3d2d8-6fe1-43be-a38c-3c8fce6fc573",
+            "username": "lazyrabbit787",
+            "password": "mustang",
+            "salt": "yPZI2R5c",
+            "md5": "2905b8fc28e6ce703f076950b8cf0dbf",
+            "sha1": "c6c97dab9551e4ceb8cd6a8d0078587b23888244",
+            "sha256": "ea00a41dd8cb60bc51523c927f184497ce8142815cd0bcf92fa0f360343ab629"
+        },
+        "dob": {
+            "date": "1948-08-22T04:43:03.365Z",
+            "age": 74
+        },
+        "registered": {
+            "date": "2018-02-06T18:28:26.420Z",
+            "age": 4
+        },
+        "phone": "041-707-9215",
+        "cell": "081-831-1103",
+        "id": {
+            "name": "PPS",
+            "value": "0853527T"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/32.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+        },
+        "nat": "IE"
+    }
+]
